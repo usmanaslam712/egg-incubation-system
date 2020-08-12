@@ -1,6 +1,4 @@
 //Project name: Egg incubation project
-//Name: Usman Aslam
-//Reg. number= FA16-EEE-036
 //DISCLAIMER: Code will be explained in the form of comments when needed.
 #include "DHT.h" //using DHT.h library in " " as brackets do not work, gives error
 
