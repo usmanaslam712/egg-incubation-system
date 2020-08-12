@@ -31,3 +31,8 @@ A PC size fan may suffice but please make sure it's AC.
 1. Any temperature sensor maybe used but here DHT11 three pin version was used. Please consult the internet to understand how tmperature sensors work.
 2. How code works has been explained in the comments in the code.
 3. Here a single AC source was used but you can use two to seperately control the devices via AC.
+
+# Precautions
+1. Please be careful when using AC devices and working with AC voltage.
+2. Do cover up all naked AC wires with electrical tape.
+3. DO NOT use non operational plugs.
